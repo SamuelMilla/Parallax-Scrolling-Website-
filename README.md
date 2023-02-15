@@ -1,4 +1,6 @@
 # Parallax Scrolling Website 
+Project: https://samuelmilla.github.io/Parallax-Scrolling-Website-/
+
  From Online Tutorials youtube channel
 
- tutorial video : https://www.youtube.com/watch?v=1wfeqDyMUx4
+ Tutorial video : https://www.youtube.com/watch?v=1wfeqDyMUx4
